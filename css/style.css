@@ -43,3 +43,6 @@
   #top-menu a:hover {
     background-color: var(--sub-menu-bg);
   }
+header { 
+  background-color: #0e9aa7;
+}
